@@ -1,0 +1,3 @@
+C:/Cpp_repos/Homeworks/labs/lab2/out/build/x64-Debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_01f64.dir
+C:/Cpp_repos/Homeworks/labs/lab2/out/build/x64-Debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/lab2/out/build/x64-Debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir

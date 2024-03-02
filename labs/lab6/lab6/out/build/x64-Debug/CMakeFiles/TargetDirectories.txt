@@ -1,0 +1,5 @@
+C:/Cpp_repos/Homeworks/labs/lab6/lab6/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/lab6/lab6/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Cpp_repos/Homeworks/labs/lab6/lab6/out/build/x64-Debug/lab6/CMakeFiles/lab6.dir
+C:/Cpp_repos/Homeworks/labs/lab6/lab6/out/build/x64-Debug/lab6/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/lab6/lab6/out/build/x64-Debug/lab6/CMakeFiles/rebuild_cache.dir

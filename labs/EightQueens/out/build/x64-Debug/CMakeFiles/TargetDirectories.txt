@@ -1,0 +1,5 @@
+C:/Cpp_repos/Homeworks/labs/EightQueens/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/EightQueens/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Cpp_repos/Homeworks/labs/EightQueens/out/build/x64-Debug/EightQueens/CMakeFiles/EightQueens.dir
+C:/Cpp_repos/Homeworks/labs/EightQueens/out/build/x64-Debug/EightQueens/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/EightQueens/out/build/x64-Debug/EightQueens/CMakeFiles/rebuild_cache.dir
