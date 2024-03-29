@@ -1,0 +1,5 @@
+C:/Cpp_repos/Homeworks/labs/Searches/LinearSearch/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/Searches/LinearSearch/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Cpp_repos/Homeworks/labs/Searches/LinearSearch/out/build/x64-Debug/LinearSearch/CMakeFiles/LinearSearch.dir
+C:/Cpp_repos/Homeworks/labs/Searches/LinearSearch/out/build/x64-Debug/LinearSearch/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/Searches/LinearSearch/out/build/x64-Debug/LinearSearch/CMakeFiles/rebuild_cache.dir

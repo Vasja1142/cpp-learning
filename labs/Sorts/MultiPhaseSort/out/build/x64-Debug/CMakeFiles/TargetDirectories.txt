@@ -1,0 +1,5 @@
+C:/Cpp_repos/Homeworks/labs/MultiPhaseSort/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/MultiPhaseSort/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Cpp_repos/Homeworks/labs/MultiPhaseSort/out/build/x64-Debug/MultiPhaseSort/CMakeFiles/rebuild_cache.dir
+C:/Cpp_repos/Homeworks/labs/MultiPhaseSort/out/build/x64-Debug/MultiPhaseSort/CMakeFiles/MultiPhaseSort.dir
+C:/Cpp_repos/Homeworks/labs/MultiPhaseSort/out/build/x64-Debug/MultiPhaseSort/CMakeFiles/edit_cache.dir

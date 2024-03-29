@@ -1,0 +1,5 @@
+C:/Cpp_repos/Homeworks/labs/Horspull/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/Horspull/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Cpp_repos/Homeworks/labs/Horspull/out/build/x64-Debug/Horspull/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/Horspull/out/build/x64-Debug/Horspull/CMakeFiles/Horspull.dir
+C:/Cpp_repos/Homeworks/labs/Horspull/out/build/x64-Debug/Horspull/CMakeFiles/rebuild_cache.dir

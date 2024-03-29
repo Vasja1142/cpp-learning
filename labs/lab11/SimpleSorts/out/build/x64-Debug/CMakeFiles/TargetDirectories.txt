@@ -1,0 +1,5 @@
+C:/Cpp_repos/Homeworks/labs/lab11/SimpleSorts/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/lab11/SimpleSorts/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Cpp_repos/Homeworks/labs/lab11/SimpleSorts/out/build/x64-Debug/SimpleSorts/CMakeFiles/SimpleSorts.dir
+C:/Cpp_repos/Homeworks/labs/lab11/SimpleSorts/out/build/x64-Debug/SimpleSorts/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/lab11/SimpleSorts/out/build/x64-Debug/SimpleSorts/CMakeFiles/rebuild_cache.dir

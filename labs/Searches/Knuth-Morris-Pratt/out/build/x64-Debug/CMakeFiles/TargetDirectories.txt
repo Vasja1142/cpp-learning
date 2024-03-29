@@ -1,0 +1,5 @@
+C:/Cpp_repos/Homeworks/labs/Searches/Knuth-Morris-Pratt/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/Searches/Knuth-Morris-Pratt/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Cpp_repos/Homeworks/labs/Searches/Knuth-Morris-Pratt/out/build/x64-Debug/Knuth-Morris-Pratt/CMakeFiles/Knuth-Morris-Pratt.dir
+C:/Cpp_repos/Homeworks/labs/Searches/Knuth-Morris-Pratt/out/build/x64-Debug/Knuth-Morris-Pratt/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/Searches/Knuth-Morris-Pratt/out/build/x64-Debug/Knuth-Morris-Pratt/CMakeFiles/rebuild_cache.dir

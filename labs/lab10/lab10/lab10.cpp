@@ -44,7 +44,7 @@ int main()
         numbers2[i] = new int[columns-1] {};
     }
 
-    int deleteIndexColumn = 2;
+    int deleteIndexColumn = 4;
 
     cout << "\nВторой двумерный массив:\n";
     for (int i = 0; i < rows; i++)

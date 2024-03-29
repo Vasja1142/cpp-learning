@@ -1,0 +1,9 @@
+# ninja log v5
+1	1829	7328008150868273	LinearSearch/CMakeFiles/LinearSearch.dir/LinearSearch.cpp.obj	727bc6dd974a11d8
+1877	3126	7328008163672328	LinearSearch/LinearSearch.exe	ce35a915baa55c87
+1	2036	7328009281496199	LinearSearch/CMakeFiles/LinearSearch.dir/LinearSearch.cpp.obj	727bc6dd974a11d8
+2037	2869	7328009288389927	LinearSearch/LinearSearch.exe	ce35a915baa55c87
+1	1698	7328010147054530	LinearSearch/CMakeFiles/LinearSearch.dir/LinearSearch.cpp.obj	727bc6dd974a11d8
+1702	2564	7328010153809169	LinearSearch/LinearSearch.exe	ce35a915baa55c87
+1	1904	7331421150862578	LinearSearch/CMakeFiles/LinearSearch.dir/LinearSearch.cpp.obj	727bc6dd974a11d8
+1930	3034	7331421160229677	LinearSearch/LinearSearch.exe	ce35a915baa55c87

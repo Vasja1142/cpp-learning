@@ -1,0 +1,5 @@
+C:/Cpp_repos/Homeworks/labs/Searches/Boyer-Moore/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/Searches/Boyer-Moore/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Cpp_repos/Homeworks/labs/Searches/Boyer-Moore/out/build/x64-Debug/Boyer-Moore/CMakeFiles/Boyer-Moore.dir
+C:/Cpp_repos/Homeworks/labs/Searches/Boyer-Moore/out/build/x64-Debug/Boyer-Moore/CMakeFiles/edit_cache.dir
+C:/Cpp_repos/Homeworks/labs/Searches/Boyer-Moore/out/build/x64-Debug/Boyer-Moore/CMakeFiles/rebuild_cache.dir
